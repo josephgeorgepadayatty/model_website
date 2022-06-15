@@ -1,0 +1,26 @@
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited ,.nav-item {
+    background-color: #b0d8c2 !important;
+}
+
+.active{ background-color: #9b0000 !important;
+
+}
+
+.center {
+    text-align: center 
+    !important;
+}
+
+.text, .form-text{
+    color: #dfcec6 !important;
+}
+
+.container {
+width:100%
+padding:70px 0px 70px 0px !important;
+}
+
+.pos{
+  align-content: center !important;
+
+}
